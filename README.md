@@ -55,6 +55,27 @@ jupyter notebook
 ## Author
 
 Maha Rehan – [GitHub](https://github.com/MahaR54)
+body {
+    font-family: 'Helvetica', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
 
-```
-```
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+code {
+    background-color: #eaeaea;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+pre {
+    background-color: #272822;
+    color: #f8f8f2;
+    padding: 10px;
+    border-radius: 6px;
+}
